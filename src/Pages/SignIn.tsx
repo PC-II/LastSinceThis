@@ -60,7 +60,7 @@ export default () => {
           </div>
 
           <h1 className="text-3xl font-bold tracking-tight text-stone-800">
-            Last Time <span className="text-orange-500">Since...</span>
+            Last Since <span className="text-orange-500">This...</span>
           </h1>
           <p className="mt-2 text-sm text-stone-500">
             Track chores, workouts, and Shiba feedings.
